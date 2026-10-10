@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"亚马逊运营专家：标题 / 五点描述 / 关键词 / Listing 评分 / 合规 checklist","name":"lhg-amazon-listing","source":"./"}]}
